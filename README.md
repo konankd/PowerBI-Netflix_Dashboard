@@ -5,5 +5,6 @@ This Power BI project aims to provide insightful visualizations and analyses of 
 
 **1. Shows Overview Dashboard:**
    Analyzes shows by date added, rating, top genres, and countries available.
+   
 **2. Show Details Dashboard:**
    Displays title selection, description, genre, director, cast, type, rating, and countries available.
